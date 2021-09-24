@@ -5,7 +5,7 @@ if(typeof(promoLogoElement) != 'undefined' && promoLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/promo.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/promo.json'
   });
   document.getElementById('promoLogo').addEventListener("mouseenter", function() {
       promoLogo.play();
@@ -24,7 +24,7 @@ if(typeof(agentLogoElement) != 'undefined' && agentLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/agent.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/agent.json'
   });
   document.getElementById('agentLogo').addEventListener("mouseenter", function() {
       agentLogo.play();
@@ -43,7 +43,7 @@ if(typeof(communLogoElement) != 'undefined' && communLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/commun.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/commun.json'
   });
   document.getElementById('communLogo').addEventListener("mouseenter", function() {
       communLogo.play();
@@ -62,7 +62,7 @@ if(typeof(targetLogoElement) != 'undefined' && targetLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/target.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/target.json'
   });
   document.getElementById('targetLogo').addEventListener("mouseenter", function() {
       targetLogo.play();
@@ -81,7 +81,7 @@ if(typeof(autoLogoElement) != 'undefined' && autoLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/auto.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/auto.json'
   });
   document.getElementById('autoLogo').addEventListener("mouseenter", function() {
       autoLogo.play();
@@ -100,7 +100,7 @@ if(typeof(convLogoElement) != 'undefined' && convLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/conv.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/conv.json'
   });
   document.getElementById('convLogo').addEventListener("mouseenter", function() {
       convLogo.play();
@@ -119,7 +119,7 @@ if(typeof(cpushLogoElement) != 'undefined' && cpushLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/cpush.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/cpush.json'
   });
   document.getElementById('cpushLogo').addEventListener("mouseenter", function() {
       cpushLogo.play();
@@ -138,7 +138,7 @@ if(typeof(lgenLogoElement) != 'undefined' && lgenLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/lgen.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/lgen.json'
   });
   document.getElementById('lgenLogo').addEventListener("mouseenter", function() {
       lgenLogo.play();
@@ -157,7 +157,7 @@ if(typeof(lflashLogoElement) != 'undefined' && lflashLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/lflash.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/lflash.json'
   });
   document.getElementById('lflashLogo').addEventListener("mouseenter", function() {
       lflashLogo.play();
@@ -176,7 +176,7 @@ if(typeof(oneofLogoElement) != 'undefined' && oneofLogoElement != null) {
       renderer: 'svg',
       loop: false,
       autoplay: false,
-  	  path: 'https://murrr-andrew.github.io/tyler/rc/animationJson/oneof.json'
+  	  path: 'https://murrr-andrew.github.io/tyler/animationJson/oneof.json'
   });
   document.getElementById('oneofLogo').addEventListener("mouseenter", function() {
       oneofLogo.play();
